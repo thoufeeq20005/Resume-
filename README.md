@@ -1,96 +1,89 @@
 # Thoufeeq M
 
-8870154036 | [Mail](Thoufeeqkhan07@gmail.com) | [LinkedIn](https://linkedin.com/Thoufeeq) | [GitHub](https://github.com/Thoufeeq20005) | [LeetCode](https://leetcode.com/u/Thoufeeq07)
+**Computer Science & Engineering Student | Full-Stack & IoT Developer**
+
+📍 Coimbatore, Tamil Nadu, India
+
+**8870154036** &nbsp;|&nbsp; [Email](mailto:Thoufeeqkhan07@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) &nbsp;|&nbsp; [GitHub](https://github.com/Thoufeeq20005) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/u/Thoufeeq07)
 
 ---
 
-## Education
+## Summary
 
-**Sri Krishna College of Engineering and Technology** — Coimbatore, India  
-**B.E. in Computer Science and Engineering**  
-CGPA: **7.75** | **2027**
-
-**BMC Higher Secondary School** — Tuticorin, India  
-Class XII: **86.6%** | **2023**
+Final-year Computer Science and Engineering student with hands-on experience in full-stack development and IoT systems. Built end-to-end products spanning React front-ends, REST backends, and ESP32 sensor pipelines, and applied Python-based data analysis to experimental datasets during a research internship at IIT Guwahati. Three national-level hackathon finishes, including two podium placements. Seeking a software engineering role building reliable, data-driven systems.
 
 ---
 
 ## Experience
 
-### Software Research Intern — _IIT Guwahati (Smart Food Packaging)_
+### Software Research Intern
+**IIT Guwahati — Smart Food Packaging Lab** &nbsp;·&nbsp; Guwahati, India
+`May 2025 – June 2025`
 
-**May 2025 – June 2025**
-
-- Developed and tested paper-based sensors for ammonia-based food spoilage detection, enabling real-time freshness monitoring
-- Analyzed sensor response data and collaborated with research teams to improve detection accuracy
-- Designed repeatable testing workflows and validation logic to ensure consistent sensor performance
-- Applied data-driven analysis to optimize detection thresholds and reduce false freshness indications
-- Documented experimental results and translated findings into actionable research insights
-
----
-
-## Projects
-
-### EcoWatt – Smart Energy Monitoring & Optimization Platform
-
-_ESP32, IoT Sensors, AI Analytics, Cloud Dashboard_
-
-- Developed an AI-powered IoT system to monitor real-time household energy consumption
-- Integrated smart sensors and ESP32 devices to track appliance-level energy usage
-- Implemented AI-driven insights to optimize consumption and reduce electricity costs
-
-### InventoryPro – Warehouse Inventory Management System
-
-_React, REST APIs, Backend Services_
-
-- Built a web-based inventory system for real-time product tracking and stock control
-- Streamlined warehouse operations through REST-based services and intuitive UI
-
-### SmartFoodPack – Smart Food Freshness Monitoring System
-
-_ESP32, Sensors, Embedded Systems_
-
-- Developed an ESP32-based smart food packaging solution for real-time freshness monitoring
-- Detected food spoilage using voltage variation analysis to improve food safety and reduce waste
-
----
-
-## Achievements
-
-- **Third Place** – _Tech Savishkaar 3.0 (National-Level Sustainability Hackathon)_  
-  Developed an IoT-driven energy management solution using machine learning for usage pattern analysis
-- **Second Runner-Up** – _Chemovate’25 (National-Level Hackathon)_  
-  Designed a smart food packaging system to track food quality and prevent spoilage
-- **Certificates:** [Drive Folder]
+- Analyzed paper-based ammonia sensor data using **Python (pandas, NumPy, Matplotlib)** to characterize food spoilage detection behavior
+- Tuned detection thresholds through data-driven analysis, reducing false freshness indications against the baseline cut-off
+- Built repeatable testing and validation workflows, keeping sensor performance consistent across experimental trials
+- Documented findings and translated experimental data into actionable insights for a cross-functional research team
 
 ---
 
 ## Technical Skills
 
-**Languages:**
+| Category | Technologies |
+|---|---|
+| **Languages** | C++, Java, Python, SQL, JavaScript |
+| **Frontend** | React, HTML, CSS |
+| **Backend** | Node.js, Express.js, Spring Boot, REST APIs |
+| **Databases** | MySQL, MongoDB |
+| **Tools & Platforms** | Git, GitHub, Postman, VS Code, ESP32 / Arduino |
+| **Core CS** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, OOP |
+| **Coursework** | Machine Learning, Statistics & Data Science |
 
-- C++, Java, Python
+---
 
-**Frontend:**
+## Projects
 
-- HTML, CSS, JavaScript, React, React Native
+### EcoWatt — Smart Energy Monitoring & Optimization Platform
+`ESP32` `Python` `Machine Learning` `Cloud Dashboard`
 
-**Backend:**
+- IoT system that tracks real-time power draw of household appliances via ESP32 nodes and streams readings to a cloud dashboard
+- Applied machine learning on usage data to detect consumption patterns and recommend appliance-level savings
+- Built a live dashboard visualizing appliance-wise consumption, making high-drain devices identifiable at a glance
+- **Won 3rd place** at Tech Savishkaar 3.0, a national-level sustainability hackathon
 
-- Node.js, Express.js, Spring Boot
+### InventoryPro — Warehouse Inventory Management System
+`React` `Node.js` `Express` `MongoDB` `REST APIs`
 
-**Databases:**
+- Full-stack inventory system with real-time stock tracking, low-stock alerts, and role-based access for admin and staff users
+- Designed the REST API and database schema, replacing manual stock checks with instant lookups
+- Added search, filtering, and stock-movement history so every inventory change is traceable to a user and timestamp
 
-- SQL, MongoDB
+### SmartFoodPack — Smart Food Freshness Monitoring System
+`ESP32` `Sensors` `Embedded Systems`
 
-**Version Control:**
+- ESP32-based smart packaging that flags food spoilage in real time using voltage-variation analysis on sensor-activated filter paper
+- Mapped sensor voltage thresholds to freshness levels, giving a clear fresh/spoiled readout without any lab testing
+- **Placed 2nd runner-up** at Chemovate'25, a national-level hackathon
 
-- Git
+---
 
-**Core CS:**
+## Achievements
 
-- Data Structures & Algorithms
-- Operating Systems
-- DBMS
-- Computer Networks
-- Object-Oriented Programming
+- **3rd Place — Tech Savishkaar 3.0** · National-Level Sustainability Hackathon, Vasavi College of Engineering, Hyderabad
+  IoT-driven energy management solution using ML for usage-pattern analysis and energy optimization.
+- **2nd Runner-Up — Chemovate'25** · National-Level Hackathon, St. Joseph's College of Engineering, Chennai
+  Smart packaging solution for real-time food quality tracking and spoilage prevention.
+- **Finalist — Protothon'26** · Prince College of Engineering, Chennai
+- 📄 [View all certificates](https://drive.google.com/YOUR-LINK)
+
+---
+
+## Education
+
+**Sri Krishna College of Engineering and Technology** — Coimbatore, India
+B.E. in Computer Science and Engineering · **CGPA: 7.75 / 10** · `2023 – 2027`
+
+**BMC Higher Secondary School** — Tuticorin, India
+Class XII · **86.6%** · `2023`
+
+---
